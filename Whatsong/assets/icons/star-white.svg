@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="25px" viewBox="0 0 25 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Star Copy</title>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-879.000000, -2768.000000)" fill="#FFFFFF" stroke="#060606" stroke-width="2">
+            <path d="M891,2769.26743 L894.146105,2775.66976 L901.207282,2776.68345 L896.090504,2781.65401 L897.308447,2788.68283 L891,2785.35247 L884.691553,2788.68283 L885.909496,2781.65401 L880.792718,2776.68345 L887.853895,2775.66976 L891,2769.26743 Z" id="Star-Copy" transform="translate(891.000000, 2780.000000) rotate(30.000000) translate(-891.000000, -2780.000000) "></path>
+        </g>
+    </g>
+</svg>
